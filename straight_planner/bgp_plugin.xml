@@ -1,0 +1,7 @@
+<library path="lib/libstraight_planner">
+  <class name="straight_planner/StraightPlanner" type="straight_planner::StraightPlanner" base_class_type="nav_core::BaseGlobalPlanner">
+    <description>
+      A simple planner that followes the robot with a straight line. 
+    </description>
+  </class>
+</library>
